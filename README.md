@@ -10,6 +10,8 @@ description: "Here is an easy way of getting any .exe running as a web service."
 
 # Run Console Apps on Azure Functions
 
+>This version has been modified to work with .Net Core v3
+
 tldr: 
 Here is an easy way of getting any .exe running as a web service.  You just specify the input parameters to your exe in a configuration file.  You can use binary files as inputs to the exe by specifying a URL to download it from.
 
